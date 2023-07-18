@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Funciones/view_Registrar_alimento.dart';
+import 'Funciones/view_registrar_alimento.dart';
 
 void main() {
   runApp(const MyApp());
