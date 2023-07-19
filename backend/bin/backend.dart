@@ -1,5 +1,5 @@
-import 'package:backend/controller/controller_reg_alimento.dart';
-import 'package:backend/controller/con_registrar_consumo.dart';
+//import 'package:backend/controller/controller_reg_alimento.dart';
+//import 'package:backend/controller/con_registrar_consumo.dart';
 import 'package:backend/controller/con_historial_consumo.dart';
 
 void main(List<String> arguments) {
